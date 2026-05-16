@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+app/data/faiss.index
+app/data/metadata.pkl
